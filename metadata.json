@@ -1,0 +1,7 @@
+{
+  "name": "LinguaVoice Chat",
+  "description": "A real-time chat application that uses Gemini's advanced text-to-speech capabilities to translate and speak messages in multiple languages and character voices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
